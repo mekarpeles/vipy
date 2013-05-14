@@ -1,3 +1,5 @@
-# vipy
+vipy
+====
 
-vipy text editor
+Vipy ncurses text editor
+
