@@ -9,5 +9,5 @@ __author__ = [
 __license__ = "public domain"
 __contributors__ = "see AUTHORS"
 
-from vipy import run
+from vipy import Screen
 

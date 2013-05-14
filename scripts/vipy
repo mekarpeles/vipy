@@ -15,6 +15,7 @@ if __name__ == "__main__":
     parser = argparser()
     args = parser.parse_args()
     try:
-        vipy.run()
+        screen = vipy.Screen()
+        screen.on()
     except:
         process = subprocess.Popen("reset")
